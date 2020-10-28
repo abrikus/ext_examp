@@ -1,0 +1,168 @@
+{
+    "status": 200,
+    "message": "Shop(s) was(were) extracted successfull",
+    "data": [
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "5",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "69",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Hello Worldasdasd",
+                "date": "2020-10-20T13:00:16.356Z",
+                "mark": "purple",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5f6da9eb8ffce33adcb117be",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Allegro",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "20",
+                "type": "currencie",
+                "from": false,
+                "currency": "pln",
+                "maxTime": "35",
+                "st": "orange"
+            },
+            "comments": {
+                "text": "Some problems with shop descriptiond",
+                "date": "2020-10-20T07:28:25.924Z",
+                "mark": "orange",
+                "st": "orange"
+            },
+            "marker": "orange",
+            "active": true,
+            "_id": "5f6daa068ffce33adcb117bf",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Aliexpress",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "house",
+            "cashback": {
+                "sum": "12",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "125",
+                "st": "orange"
+            },
+            "comments": {
+                "text": "Some issue with cashback",
+                "date": "2020-09-17T09:15:47.561+0000",
+                "mark": "purple",
+                "st": "purple"
+            },
+            "marker": "purple",
+            "active": false,
+            "_id": "5f6daa1c8ffce33adcb117c0",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "iHerb",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "5",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "72",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Everything goodrrr",
+                "date": "2020-10-20T07:23:40.071Z",
+                "mark": "green",
+                "st": "green"
+            },
+            "marker": "green",
+            "active": true,
+            "_id": "5f6daa338ffce33adcb117c1",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Adidas",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "sport",
+            "cashback": {
+                "sum": "12",
+                "type": "percent",
+                "from": true,
+                "currency": null,
+                "maxTime": "98",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Waiting partner api response on program add",
+                "date": "2020-09-17T09:15:47.561+0000",
+                "mark": "yellow",
+                "st": "yellow"
+            },
+            "marker": "yellow",
+            "active": true,
+            "_id": "5f6daa4b8ffce33adcb117c2",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Nike",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "food",
+            "cashback": {
+                "sum": "7",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "34",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Shop partner stopped of cashback returningasdas",
+                "date": "2020-10-20T07:31:17.793Z",
+                "mark": "blue",
+                "st": "blue"
+            },
+            "marker": "blue",
+            "active": false,
+            "_id": "5f6daa748ffce33adcb117c3",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Lidl",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        }
+    ]
+}
