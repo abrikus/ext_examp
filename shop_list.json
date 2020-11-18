@@ -27,7 +27,9 @@
             },
             "name": "Allegro",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://allegro.pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/allegro.png"
         },
         {
             "category": "all",
@@ -54,7 +56,9 @@
             },
             "name": "Aliexpress",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://pl.aliexpress.com/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/aliexpress.png"
         },
         {
             "category": "house",
@@ -81,7 +85,9 @@
             },
             "name": "iHerb",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://www.iherb.com/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/iherb.png"
         },
         {
             "category": "clothes",
@@ -108,7 +114,9 @@
             },
             "name": "Adidas",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://www.adidas.pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/adidas.png"
         },
         {
             "category": "sport",
@@ -135,7 +143,9 @@
             },
             "name": "Nike",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://www.nike.com/pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/nike.png"
         },
         {
             "category": "food",
@@ -162,7 +172,125 @@
             },
             "name": "Lidl",
             "partnerID": "5f0333bb7e66941290145c32",
-            "partnerName": "admitad"
+            "partnerName": "admitad",
+            "site_url": "https://www.lidl-sklep.pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/lidl.png"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "7.5",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "34",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Shop partner stopped of cashback returningasdas",
+                "date": "2020-10-20T07:31:17.793Z",
+                "mark": "blue",
+                "st": "blue"
+            },
+            "marker": "blue",
+            "active": false,
+            "_id": "5f6daa748ffce33adcb117c4",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Aboutyou",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad",
+            "site_url": "https://www.aboutyou.pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/aboutyou.png"
+        },
+        {
+            "category": "travel",
+            "cashback": {
+                "sum": "3",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "34",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Shop partner stopped of cashback returningasdas",
+                "date": "2020-10-20T07:31:17.793Z",
+                "mark": "blue",
+                "st": "blue"
+            },
+            "marker": "blue",
+            "active": false,
+            "_id": "5f6daa748ffce33adcb117c5",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Agoda",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad",
+            "site_url": "https://www.agoda.com/pl-pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/agoda.jpeg"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "3.6",
+                "type": "percent",
+                "from": false,
+                "currency": null,
+                "maxTime": "34",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Shop partner stopped of cashback returningasdas",
+                "date": "2020-10-20T07:31:17.793Z",
+                "mark": "blue",
+                "st": "blue"
+            },
+            "marker": "blue",
+            "active": false,
+            "_id": "5f6daa748ffce33adcb117c6",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Answear",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad",
+            "site_url": "https://answear.com/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/answear.png"
+        },
+        {
+            "category": "electronics",
+            "cashback": {
+                "sum": "10.5",
+                "type": "currencie",
+                "from": false,
+                "currency": null,
+                "maxTime": "34",
+                "st": "green"
+            },
+            "comments": {
+                "text": "Shop partner stopped of cashback returningasdas",
+                "date": "2020-10-20T07:31:17.793Z",
+                "mark": "blue",
+                "st": "blue"
+            },
+            "marker": "blue",
+            "active": false,
+            "_id": "5f6daa748ffce33adcb117c7",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Avans",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad",
+            "site_url": "https://www.avans.pl/",
+            "img": "https://raw.githubusercontent.com/abrikus/ext_examp/main/logos/avans.jpeg"
         }
     ]
 }
