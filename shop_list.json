@@ -10,6 +10,7 @@
                 "from": false,
                 "currency": null,
                 "maxTime": "69",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 140 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
                 "st": "green"
             },
             "comments": {
@@ -39,6 +40,7 @@
                 "from": false,
                 "currency": "pln",
                 "maxTime": "35",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 105 dni\"}]",
                 "st": "orange"
             },
             "comments": {
