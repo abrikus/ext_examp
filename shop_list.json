@@ -269,7 +269,7 @@
             "category": "electronics",
             "cashback": {
                 "sum": "10.5",
-                "type": "currencie",
+                "type": "currency",
                 "from": false,
                 "currency": null,
                 "maxTime": "34",
